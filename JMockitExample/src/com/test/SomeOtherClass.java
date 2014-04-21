@@ -17,6 +17,11 @@ public final class SomeOtherClass
 	}
 	
 	public void printMethod () {
-	    System.out.println("Hello World !!!");
+	    System.out.println("Hello Git World !!!");
+	    System.out.println("Hi Riya !!!");
+	}
+	
+	public void branchMerge () {
+	    System.out.println("My new branch !!!");
 	}
 }
