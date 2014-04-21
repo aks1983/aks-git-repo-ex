@@ -15,4 +15,8 @@ public final class SomeOtherClass
 		}
 	
 	}
+	
+	public void printMethod () {
+	    System.out.println("Hello World !!!");
+	}
 }
